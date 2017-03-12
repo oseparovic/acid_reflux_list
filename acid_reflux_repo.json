@@ -1,7 +1,112 @@
 [
   {
-    "name":"Tomato",
+    "name":"Chicken",
+    "reflux":"remedy",
+    "category":"Meat and alternatives"
+  },
+  {
+    "name":"Turkey",
+    "reflux":"remedy",
+    "category":"Meat and alternatives"
+  },
+  {
+    "name":"Fish",
+    "reflux":"remedy",
+    "category":"Meat and alternatives"
+  },
+  {
+    "name":"Egg yolk",
     "reflux":"avoid",
+    "category":"Meat and alternatives"
+  },
+  {
+    "name":"Egg white",
+    "reflux":"remedy",
+    "category":"Meat and alternatives"
+  },
+  {
+    "name":"Pear",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Apple",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Banana",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Melon",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Oatmeal",
+    "reflux":"remedy",
+    "category":"Grain Products"
+  },
+  {
+    "name":"Tomatoes",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Oranges",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Grapefruit",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Lemons",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Limes",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Pineapple",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Salsa",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Tomato sauce (or foods where tomato sauce or paste is a main ingredient, such as pizza or chili)",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Garlic",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Onion",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Chocolate",
+    "reflux":"avoid",
+    "category":"Confections"
+  },
+  {
+    "name":"Ginger",
+    "reflux":"remedy",
     "category":"Fruits and vegetables"
   }
 ]
