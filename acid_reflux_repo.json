@@ -1,5 +1,10 @@
 [
   {
+    "name":"Cucumber",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
     "name":"Aloe vera",
     "reflux":"remedy",
     "category":"Fruits and vegetables"
