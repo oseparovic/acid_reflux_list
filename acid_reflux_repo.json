@@ -1,5 +1,15 @@
 [
   {
+    "name":"Avocados",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Chicken",
+    "reflux":"remedy",
+    "category":"Meat and alternatives"
+  },
+  {
     "name":"Chicken",
     "reflux":"remedy",
     "category":"Meat and alternatives"
