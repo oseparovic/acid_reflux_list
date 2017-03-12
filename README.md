@@ -2,11 +2,11 @@
 
 Supported food items use the following format:
 
-{
-    "name": "Tomato",
-    "reflux": "avoid",
-    "category": "Fruits and vegetables"
-}
+    {
+        "name": "Tomato",
+        "reflux": "avoid",
+        "category": "Fruits and vegetables"
+    }
 
 * **name** - plaintext name of the food item, include serving max in brackets
 * **reflux** - reflux classification of the item. Currently only "avoid" and "ok" are supported
