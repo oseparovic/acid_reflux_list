@@ -19,3 +19,4 @@ Notes:
 # Sources
 
 * http://www.healthline.com/health/gerd/diet-nutrition#Overview1
+* https://www.gicare.com/diets/gerd/
