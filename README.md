@@ -9,7 +9,7 @@ Supported food items use the following format:
     }
 
 * **name** - plaintext name of the food item, include serving max in brackets
-* **reflux** - reflux classification of the item. Currently only "avoid" and "ok" are supported
+* **reflux** - reflux classification of the item. Currently only "avoid", "remedy" and "ok" are supported
 * **category** - food category this item belongs to
 
 Notes:
