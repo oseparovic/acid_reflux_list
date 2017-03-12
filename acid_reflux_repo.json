@@ -1,5 +1,85 @@
 [
   {
+    "name":"Aloe vera",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Parsely",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Fennel",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Potatoes",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Asparagus",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Cauliflower",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Celery",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Broccoli",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Rice",
+    "reflux":"ok",
+    "category":"Grain Products"
+  },
+  {
+    "name":"Couscous",
+    "reflux":"ok",
+    "category":"Grain Products"
+  },
+  {
+    "name":"Canteloupe",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Honeydew",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Mint tea",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Bacon",
+    "reflux":"avoid",
+    "category":"Meat and substitutes"
+  },
+  {
+    "name":"Coffee (regular or decaf)",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Whole milk",
+    "reflux":"avoid",
+    "category":"Dairy"
+  },
+  {
     "name":"Avocados",
     "reflux":"remedy",
     "category":"Fruits and vegetables"
@@ -7,32 +87,32 @@
   {
     "name":"Chicken",
     "reflux":"remedy",
-    "category":"Meat and alternatives"
+    "category":"Meat and substitutes"
   },
   {
     "name":"Chicken",
     "reflux":"remedy",
-    "category":"Meat and alternatives"
+    "category":"Meat and substitutes"
   },
   {
     "name":"Turkey",
     "reflux":"remedy",
-    "category":"Meat and alternatives"
+    "category":"Meat and substitutes"
   },
   {
     "name":"Fish",
     "reflux":"remedy",
-    "category":"Meat and alternatives"
+    "category":"Meat and substitutes"
   },
   {
     "name":"Egg yolk",
     "reflux":"avoid",
-    "category":"Meat and alternatives"
+    "category":"Meat and substitutes"
   },
   {
     "name":"Egg white",
     "reflux":"remedy",
-    "category":"Meat and alternatives"
+    "category":"Meat and substitutes"
   },
   {
     "name":"Pear",
@@ -50,7 +130,7 @@
     "category":"Fruits and vegetables"
   },
   {
-    "name":"Melon",
+    "name":"Watermelon",
     "reflux":"remedy",
     "category":"Fruits and vegetables"
   },
