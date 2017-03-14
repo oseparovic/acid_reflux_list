@@ -1,5 +1,35 @@
 [
   {
+    "name":"Beer",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Wine",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Liquor",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Yogurt",
+    "reflux":"remedy",
+    "category":"Dairy"
+  },
+  {
+    "name":"Kefir",
+    "reflux":"remedy",
+    "category":"Dairy"
+  },
+  {
+    "name":"Sour cream",
+    "reflux":"remedy",
+    "category":"Dairy"
+  },
+  {
     "name":"Cucumber",
     "reflux":"avoid",
     "category":"Fruits and vegetables"
