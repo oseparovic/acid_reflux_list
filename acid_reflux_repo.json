@@ -1,5 +1,65 @@
 [
   {
+    "name":"Honey",
+    "reflux":"remedy",
+    "category":"Condiments"
+  },
+  {
+    "name":"Almonds",
+    "reflux":"remedy",
+    "category":"Nuts and seeds"
+  },
+  {
+    "name":"Pumpkin",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Squash",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Artichokes",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Kombucha",
+    "reflux":"remedy",
+    "category":"Drinks"
+  },
+  {
+    "name":"Pickles",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Sauerkraut",
+    "reflux":"remedy",
+    "category":"Condiments"
+  },
+  {
+    "name":"Apple cider vinegar",
+    "reflux":"remedy",
+    "category":"Condiments"
+  },
+  {
+    "name":"Olives",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Peppermint tea",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Spearmint tea",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
     "name":"Cottage cheese",
     "reflux":"ok",
     "category":"Dairy"
@@ -96,7 +156,7 @@
   },
   {
     "name":"Asparagus",
-    "reflux":"ok",
+    "reflux":"remedy",
     "category":"Fruits and vegetables"
   },
   {
