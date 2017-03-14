@@ -1,8 +1,48 @@
 [
   {
-    "name":"Beer",
-    "reflux":"avoid",
-    "category":"Drinks"
+    "name":"Cottage cheese",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "name":"Green beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Carrots",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Peas",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Cabbage",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Corn thins",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+    "name":"Bread",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+    "name":"Rice cakes",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+    "name":"Pretzels",
+    "reflux":"ok",
+    "category":"Grain products"
   },
   {
     "name":"Wine",
@@ -77,12 +117,12 @@
   {
     "name":"Rice",
     "reflux":"ok",
-    "category":"Grain Products"
+    "category":"Grain products"
   },
   {
     "name":"Couscous",
     "reflux":"ok",
-    "category":"Grain Products"
+    "category":"Grain products"
   },
   {
     "name":"Canteloupe",
@@ -172,7 +212,7 @@
   {
     "name":"Oatmeal",
     "reflux":"remedy",
-    "category":"Grain Products"
+    "category":"Grain products"
   },
   {
     "name":"Tomatoes",
