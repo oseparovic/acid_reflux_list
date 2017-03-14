@@ -21,3 +21,4 @@ Notes:
 * http://www.healthline.com/health/gerd/diet-nutrition#Overview1
 * https://www.gicare.com/diets/gerd/
 * http://patient.info/health/diet-sheet-for-oesophageal-reflux
+* https://www.gastrolondon.co.uk/acid-reflux-diet.php
