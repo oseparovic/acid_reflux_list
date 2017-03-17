@@ -1,5 +1,15 @@
 [
   {
+    "name":"Chips",
+    "reflux":"avoid",
+    "category":"Grain products"
+  },
+  {
+    "name":"Crackers",
+    "reflux":"avoid",
+    "category":"Grain products"
+  },
+  {
     "name":"Honey",
     "reflux":"remedy",
     "category":"Condiments"
@@ -60,7 +70,7 @@
     "category":"Drinks"
   },
   {
-    "name":"Cottage cheese",
+    "name":"Cheese",
     "reflux":"ok",
     "category":"Dairy"
   },
