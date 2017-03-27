@@ -468,7 +468,31 @@
  "name":"Mint",
  "reflux":"avoid",
  "category":"Condiments"
+ },
+ {
+ "name":"Apple Juice",
+ "reflux":"ok",
+ "category":"Drinks"
+ },
+ {
+ "name":"Peach",
+ "reflux":"ok",
+ "category":"Fruits and Vegetables"
+ },
+ {
+ "name":"Melon",
+ "reflux":"ok",
+ "category":"Fruits and Vegetables"
+ },
+ {
+ "name":"Strawberry",
+ "reflux":"ok",
+ "category":"Fruits and Vegetables"
+ },
+ {
+ "name":"Grapes",
+ "reflux":"ok",
+ "category":"Fruits and Vegetables"
  }
-
 ]
  
