@@ -235,11 +235,6 @@
     "category":"Meat and substitutes"
   },
   {
-    "name":"Chicken",
-    "reflux":"remedy",
-    "category":"Meat and substitutes"
-  },
-  {
     "name":"Turkey",
     "reflux":"remedy",
     "category":"Meat and substitutes"
@@ -343,6 +338,137 @@
     "name":"Ginger",
     "reflux":"remedy",
     "category":"Fruits and vegetables"
-  }
+  },
+  {
+    "name":"Tomato Juice",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Ketchup",
+    "reflux":"avoid",
+    "category":"Condiments"
+  },
+  {
+    "name":"Orange Juice",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Lemon Juice",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+ {
+ "name":"Lemonade",
+ "reflux":"avoid",
+ "category":"Drinks"
+ },
+ {
+ "name":"Peppers",
+ "reflux":"avoid",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"Radishes",
+ "reflux":"avoid",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"French Fries",
+ "reflux":"avoid",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"Onion Rings",
+ "reflux":"avoid",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"Fatty Ground Beef",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Marbled Steak",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Fried Meat",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Chicken Wings",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Chicken Nuggets",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Sausages",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Chocolate milk",
+ "reflux":"avoid",
+ "category":"Dairy"
+ },
+ {
+ "name":"Ice Cream",
+ "reflux":"avoid",
+ "category":"Dairy"
+ },
+ {
+ "name":"Cream",
+ "reflux":"avoid",
+ "category":"Dairy"
+ },
+ {
+ "name":"Cream Cheese",
+ "reflux":"avoid",
+ "category":"Dairy"
+ },
+ {
+ "name":"Butter",
+ "reflux":"avoid",
+ "category":"Dairy"
+ },
+ {
+ "name":"Tea",
+ "reflux":"avoid",
+ "category":"Drinks"
+ },
+ {
+ "name":"Alcohol",
+ "reflux":"avoid",
+ "category":"Drinks"
+ },
+ {
+ "name":"Soda/Carbonated Beverages",
+ "reflux":"avoid",
+ "category":"Drinks"
+ },
+ {
+ "name":"White Vinegar",
+ "reflux":"avoid",
+ "category":"Condiments"
+ },
+ {
+ "name":"Wine Vinegar",
+ "reflux":"avoid",
+ "category":"Condiments"
+ },
+ {
+ "name":"Mint",
+ "reflux":"avoid",
+ "category":"Condiments"
+ }
+
 ]
-    
+ 
