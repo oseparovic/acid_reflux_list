@@ -553,6 +553,41 @@
  "name":"Blackberries",
  "reflux":"avoid",
  "category":"Fruits and Vegetables"
+ },
+ {
+ "name":"Cashews",
+ "reflux":"avoid",
+ "category":"Nuts and seeds"
+ },
+ {
+ "name":"Cottage Cheese",
+ "reflux":"ok",
+ "category":"Dairy"
+ },
+ {
+ "name":"Cranberry juice",
+ "reflux":"avoid",
+ "category":"Drinks"
+ },
+ {
+ "name":"Eggplant",
+ "reflux":"ok",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"Lamb",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Papaya",
+ "reflux":"remedy",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"Peanut Butter (small amounts)",
+ "reflux":"ok",
+ "category":"Nuts and seeds"
  }
 ]
  
