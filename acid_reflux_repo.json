@@ -543,6 +543,16 @@
  "name":"Sunflower oil",
  "reflux":"ok",
  "category":"Condiments"
+ },
+ {
+ "name":"Lettuce",
+ "reflux":"ok",
+ "category":"Fruits and Vegetables"
+ },
+ {
+ "name":"Blackberries",
+ "reflux":"avoid",
+ "category":"Fruits and Vegetables"
  }
 ]
  
