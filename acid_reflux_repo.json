@@ -588,6 +588,31 @@
  "name":"Peanut Butter (small amounts)",
  "reflux":"ok",
  "category":"Nuts and seeds"
+ },
+ {
+ "name":"Popcorn",
+ "reflux":"ok",
+ "category":"Grain products"
+ },
+ {
+ "name":"Pork - Lean cuts (loin, center cut chops, etc)",
+ "reflux":"ok",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Pork - High fat cuts (shoulder, butt, hock, etc)",
+ "reflux":"avoid",
+ "category":"Meat and substitutes"
+ },
+ {
+ "name":"Spinach",
+ "reflux":"ok",
+ "category":"Fruits and vegetables"
+ },
+ {
+ "name":"Noodles",
+ "reflux":"ok",
+ "category":"Grain products"
  }
 ]
  
