@@ -22,3 +22,4 @@ Notes:
 * https://www.gicare.com/diets/gerd/
 * http://patient.info/health/diet-sheet-for-oesophageal-reflux
 * https://www.gastrolondon.co.uk/acid-reflux-diet.php
+* https://www.rexhealth.com/app/files/public/7576/pdf-rex-digestive-anti_refluxdiet.pdf
