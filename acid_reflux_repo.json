@@ -1,5 +1,35 @@
 [
   {
+    "name":"Beets",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Potato juice",
+    "reflux":"remedy",
+    "category":"Drinks"
+  },
+  {
+    "name":"Cabbage juice",
+    "reflux":"remedy",
+    "category":"Drinks"
+  },
+  {
+    "name":"Guava",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Mango",
+    "reflux":"remedy",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Pineapple (canned)",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
     "name":"Chips",
     "reflux":"avoid",
     "category":"Grain products"
@@ -81,7 +111,7 @@
   },
   {
     "name":"Carrots",
-    "reflux":"ok",
+    "reflux":"remedy",
     "category":"Fruits and vegetables"
   },
   {
@@ -176,7 +206,7 @@
   },
   {
     "name":"Celery",
-    "reflux":"ok",
+    "reflux":"remedy",
     "category":"Fruits and vegetables"
   },
   {
@@ -305,8 +335,8 @@
     "category":"Fruits and vegetables"
   },
   {
-    "name":"Pineapple",
-    "reflux":"avoid",
+    "name":"Pineapple (fresh)",
+    "reflux":"remedy",
     "category":"Fruits and vegetables"
   },
   {
