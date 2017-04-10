@@ -1,5 +1,10 @@
 [
   {
+    "name":"Kelp",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
     "name":"Beets",
     "reflux":"remedy",
     "category":"Fruits and vegetables"
