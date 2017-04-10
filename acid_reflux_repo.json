@@ -1,5 +1,10 @@
 [
   {
+    "name":"Caramel",
+    "reflux":"avoid",
+    "category":"Confections"
+  },
+  {
     "name":"Kelp",
     "reflux":"ok",
     "category":"Fruits and vegetables"
