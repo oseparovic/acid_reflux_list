@@ -1,5 +1,40 @@
 [
   {
+    "name":"Raspberries",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Peanuts",
+    "reflux":"avoid",
+    "category":"Nuts and seeds"
+  },
+  {
+    "name":"Mushrooms",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Blueberries",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Beer",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "name":"Avocado",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Almond butter",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
+  },
+  {
     "name":"Corn oil",
     "reflux":"avoid",
     "category":"Cooking ingredients"
