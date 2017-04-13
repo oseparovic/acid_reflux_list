@@ -24,4 +24,3 @@ Notes:
 * https://www.rexhealth.com/app/files/public/7576/pdf-rex-digestive-anti_refluxdiet.pdf
 * http://howtotreatheartburn.com/list-of-natural-heartburn-remedies/
 * http://www.chewfo.com/diets/dropping-acid-the-reflux-diet-cookbook-cure-2010-by-jamie-koufman-jordan-stern-and-marc-bauer-what-to-eat-and-foods-to-avoid-food-list/
-* http://www.foodmatters.com/article/heartburn-indigestion-acid-reflux-how-to-kick-and-over-acid-diet
