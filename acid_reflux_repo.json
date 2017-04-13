@@ -1,5 +1,25 @@
 [
   {
+    "name":"Corn oil",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "name":"Vegetable oil",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "name":"Sunflower oil",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "name":"Hydrogenated oils",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
     "name":"Bell pepper",
     "reflux":"avoid",
     "category":"Fruits and vegetables"
@@ -270,7 +290,27 @@
     "category":"Drinks"
   },
   {
-    "name":"Whole milk",
+    "name":"Milk, whole",
+    "reflux":"avoid",
+    "category":"Dairy"
+  },
+  {
+    "name":"Milk, 2%",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "name":"Milk, skim/fat-free",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "name":"Soy milk",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "name":"Margarine",
     "reflux":"avoid",
     "category":"Dairy"
   },
@@ -665,4 +705,3 @@
  "category":"Grain products"
  }
 ]
- 
