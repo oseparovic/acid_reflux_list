@@ -1,5 +1,25 @@
 [
   {
+    "name":"Mayonnaise",
+    "reflux":"avoid",
+    "category":"Condiments"
+  },
+  {
+    "name":"Brussel sprouts",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "name":"Rice, white",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+    "name":"Rice, brown",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
     "name":"Raspberries",
     "reflux":"ok",
     "category":"Fruits and vegetables"
