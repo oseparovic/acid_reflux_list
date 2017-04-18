@@ -45,11 +45,6 @@
     "category":"Drinks"
   },
   {
-    "name":"Avocado",
-    "reflux":"avoid",
-    "category":"Fruits and vegetables"
-  },
-  {
     "name":"Almond butter",
     "reflux":"ok",
     "category":"Cooking ingredients"
@@ -371,7 +366,7 @@
   },
   {
     "name":"Avocados",
-    "reflux":"remedy",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
