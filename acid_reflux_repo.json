@@ -759,31 +759,31 @@
  "id":"138",
  "name":"Peach",
  "reflux":"ok",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"139",
  "name":"Melon",
  "reflux":"ok",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"140",
  "name":"Strawberry",
  "reflux":"ok",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"141",
  "name":"Grapes",
  "reflux":"ok",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"142",
  "name":"Baked Potato",
  "reflux":"ok",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"143",
@@ -843,13 +843,13 @@
  "id":"152",
  "name":"Lettuce",
  "reflux":"ok",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"153",
  "name":"Blackberries",
  "reflux":"avoid",
- "category":"Fruits and Vegetables"
+ "category":"Fruits and vegetables"
  },
  {
  "id":"154",
