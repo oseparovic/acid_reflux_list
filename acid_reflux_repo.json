@@ -928,5 +928,17 @@
     "name":"Sweet potatoes",
     "reflux":"ok",
     "category":"Fruits and vegetables"
+  },
+  {
+    "id":"156",
+    "name":"Hazelnuts",
+    "reflux":"avoid",
+    "category":"Nuts and seeds"
+  },
+  {
+    "id":"157",
+    "name":"Pecans",
+    "reflux":"avoid",
+    "category":"Nuts and seeds"
   }
 ]
