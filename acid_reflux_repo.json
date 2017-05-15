@@ -824,20 +824,14 @@
  {
  "id":"149",
  "name":"Olive oil",
- "reflux":"ok",
- "category":"Condiments"
+ "reflux":"avoid",
+    "category":"Cooking ingredients"
  },
  {
  "id":"150",
  "name":"Sesame oil",
- "reflux":"ok",
- "category":"Condiments"
- },
- {
- "id":"151",
- "name":"Sunflower oil",
- "reflux":"ok",
- "category":"Condiments"
+ "reflux":"avoid",
+    "category":"Cooking ingredients"
  },
  {
  "id":"152",
@@ -1054,5 +1048,17 @@
     "name":"Turkey bacon",
     "reflux":"ok",
     "category":"Meat and substitutes"
+  },
+  {
+    "id":"177",
+    "name":"Linseed oil",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"178",
+    "name":"Avocado oil",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
   }
 ]
