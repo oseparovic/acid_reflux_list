@@ -1,16 +1,20 @@
 # Adding food items
 
+To add a food item, open up the acid_reflux_repo.json file and add entries like the ones listed below.
+
 Supported food items use the following format:
 
     {
+        "id": "100"
         "name": "Tomato",
         "reflux": "avoid",
         "category": "Fruits and vegetables"
     }
 
+* **id** - id for item. Has to be unique within the .json file (cannot have been used for another item)
 * **name** - plaintext name of the food item, include serving max in brackets
 * **reflux** - reflux classification of the item. Currently only "avoid", "remedy" and "ok" are supported
-* **category** - food category this item belongs to
+* **category** - food category this item belongs to. Please use an existing category
 
 Notes:
 
@@ -26,3 +30,4 @@ Notes:
 * http://www.chewfo.com/diets/dropping-acid-the-reflux-diet-cookbook-cure-2010-by-jamie-koufman-jordan-stern-and-marc-bauer-what-to-eat-and-foods-to-avoid-food-list/
 * http://www.landart.ca/en/acid-reflux-heartburn-causes-and-solutions/
 * http://www.streetdirectory.com/travel_guide/152126/e_diet/foods_to_consider_for_an_acid_reflux_diet.html
+* http://www.mediterraneanbook.com/2010/08/15/list-good-acid-foods-eat-reduce-stomach-acid-reflux/
