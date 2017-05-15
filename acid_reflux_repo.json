@@ -582,8 +582,8 @@
     "category":"Fruits and vegetables"
   },
   {
-  "id":"110",
-    "name":"Chocolate",
+    "id":"110",
+    "name":"Chocolate (milk/dark/white)",
     "reflux":"avoid",
     "category":"Confections"
   },
@@ -981,13 +981,13 @@
     "id":"164",
     "name":"Pumpkin seeds",
     "reflux":"ok",
- "category":"Nuts and seeds"
+    "category":"Nuts and seeds"
   },
   {
     "id":"165",
     "name":"Sesame seeds",
     "reflux":"ok",
- "category":"Nuts and seeds"
+    "category":"Nuts and seeds"
   },
   {
     "id":"166",
@@ -999,18 +999,24 @@
     "id":"167",
     "name":"Flaxseed",
     "reflux":"ok",
- "category":"Nuts and seeds"
+    "category":"Nuts and seeds"
   },
   {
     "id":"168",
     "name":"Chestnuts",
     "reflux":"ok",
- "category":"Nuts and seeds"
+    "category":"Nuts and seeds"
   },
   {
     "id":"169",
     "name":"Brazil nuts",
     "reflux":"ok",
- "category":"Nuts and seeds"
+    "category":"Nuts and seeds"
+  },
+    {
+    "id":"170",
+    "name":"Walnut",
+    "reflux":"ok",
+    "category":"Nuts and seeds"
   }
 ]
