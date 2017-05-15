@@ -950,7 +950,7 @@
   {
     "id":"160",
     "name":"Prunes",
-    "reflux":"ok",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
@@ -1016,31 +1016,31 @@
   {
     "id":"171",
     "name":"Pinto beans",
-    "reflux":"ok",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
     "id":"172",
     "name":"White beans",
-    "reflux":"ok",
+    "reflux":"aviod",
     "category":"Fruits and vegetables"
   },
   {
     "id":"173",
     "name":"Navy beans",
-    "reflux":"ok",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
     "id":"174",
     "name":"Red beans",
-    "reflux":"ok",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
     "id":"175",
     "name":"Lima beans",
-    "reflux":"ok",
+    "reflux":"avoid",
     "category":"Fruits and vegetables"
   },
   {
@@ -1060,5 +1060,17 @@
     "name":"Avocado oil",
     "reflux":"ok",
     "category":"Cooking ingredients"
+  },
+  {
+    "id":"179",
+    "name":"Cranberries",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"180",
+    "name":"Mandarines",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
   }
 ]
