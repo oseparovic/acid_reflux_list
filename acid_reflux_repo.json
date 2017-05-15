@@ -1013,10 +1013,40 @@
     "reflux":"ok",
     "category":"Nuts and seeds"
   },
-    {
+  {
     "id":"170",
     "name":"Walnut",
     "reflux":"ok",
     "category":"Nuts and seeds"
+  },
+  {
+    "id":"171",
+    "name":"Pinto beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"172",
+    "name":"White beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"173",
+    "name":"Navy beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"174",
+    "name":"Red beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"175",
+    "name":"Lima beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
   }
 ]
