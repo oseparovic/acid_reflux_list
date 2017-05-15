@@ -289,7 +289,7 @@
   },
   {
   "id":"60",
-    "name":"Bread",
+    "name":"Bread (multi-grain or white)",
     "reflux":"ok",
     "category":"Grain products"
   },
@@ -458,7 +458,7 @@
   {
   "id":"89",
     "name":"Avocados",
-    "reflux":"avoid",
+    "reflux":"ok",
     "category":"Fruits and vegetables"
   },
   {
@@ -751,7 +751,7 @@
  },
  {
  "id":"137",
- "name":"Apple Juice",
+ "name":"Apple juice",
  "reflux":"ok",
  "category":"Drinks"
  },
@@ -940,5 +940,77 @@
     "name":"Pecans",
     "reflux":"avoid",
     "category":"Nuts and seeds"
+  },
+  {
+    "id":"158",
+    "name":"Almond milk",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "id":"159",
+    "name":"Raisins",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"160",
+    "name":"Prunes",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"161",
+    "name":"Zucchini",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"162",
+    "name":"Feta cheese",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "id":"163",
+    "name":"Cream cheese (fat-free)",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "id":"164",
+    "name":"Pumpkin seeds",
+    "reflux":"ok",
+ "category":"Nuts and seeds"
+  },
+  {
+    "id":"165",
+    "name":"Sesame seeds",
+    "reflux":"ok",
+ "category":"Nuts and seeds"
+  },
+  {
+    "id":"166",
+    "name":"Sunflower seeds",
+    "reflux":"ok",
+ "category":"Nuts and seeds"
+  },
+  {
+    "id":"167",
+    "name":"Flaxseed",
+    "reflux":"ok",
+ "category":"Nuts and seeds"
+  },
+  {
+    "id":"168",
+    "name":"Chestnuts",
+    "reflux":"ok",
+ "category":"Nuts and seeds"
+  },
+  {
+    "id":"169",
+    "name":"Brazil nuts",
+    "reflux":"ok",
+ "category":"Nuts and seeds"
   }
 ]
