@@ -1073,4 +1073,40 @@
     "reflux":"avoid",
     "category":"Fruits and vegetables"
   }
+  {
+    "id":"181",
+    "name":"Cherry",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"182",
+    "name":"Ginger Tea",
+    "reflux":"remedy",
+    "category":"Drinks"
+  },
+  {
+    "id":"183",
+    "name":"Apricot",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"184",
+    "name":"Corn",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"185",
+    "name":"Canola oil",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"186",
+    "name":"Pistachio",
+    "reflux":"ok",
+    "category":"Nuts and seeds"
+  }
 ]
