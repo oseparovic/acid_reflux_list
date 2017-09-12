@@ -1108,5 +1108,17 @@
     "name":"Pistachio",
     "reflux":"ok",
     "category":"Nuts and seeds"
+  },
+  {
+    "id":"187",
+    "name":"Black beans",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"188",
+    "name":"Chamomile tea",
+    "reflux":"remedy",
+    "category":"Drinks"
   }
 ]
