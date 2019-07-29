@@ -475,7 +475,7 @@
   },
   {
   "id":"92",
-    "name":"Fish",
+    "name":"Fish (salmon, tuna, etc)",
     "reflux":"remedy",
     "category":"Meat and substitutes"
   },
@@ -1120,5 +1120,47 @@
     "name":"Chamomile tea",
     "reflux":"remedy",
     "category":"Drinks"
+  },
+  {
+    "id":"189",
+    "name":"Green tea",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "id":"190",
+    "name":"Cinammon",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"191",
+    "name":"Dates",
+    "reflux":"ok",
+     "category":"Fruits and vegetables"
+  },
+  {
+    "id":"192",
+    "name":"Kiwi",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"193",
+    "name":"Ham",
+    "reflux":"avoid",
+    "category":"Meat and substitutes"
+  },
+  {
+    "id":"194",
+    "name":"Lentils",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"195",
+    "name":"Soy sauce",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
   }
 ]
