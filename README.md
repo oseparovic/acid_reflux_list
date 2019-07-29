@@ -32,3 +32,4 @@ Notes:
 * http://www.streetdirectory.com/travel_guide/152126/e_diet/foods_to_consider_for_an_acid_reflux_diet.html
 * http://www.mediterraneanbook.com/2010/08/15/list-good-acid-foods-eat-reduce-stomach-acid-reflux/
 * http://www.acidreflux-information.com/List-of-Alkaline-Foods.html
+* https://www.webmd.com/heartburn-gerd/default.htm
