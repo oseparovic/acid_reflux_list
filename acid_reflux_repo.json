@@ -822,16 +822,16 @@
  "category":"Grain products"
  },
  {
- "id":"149",
- "name":"Olive oil",
- "reflux":"avoid",
-    "category":"Cooking ingredients"
+   "id":"149",
+   "name":"Olive oil",
+   "reflux":"avoid",
+   "category":"Cooking ingredients"
  },
  {
- "id":"150",
- "name":"Sesame oil",
- "reflux":"avoid",
-    "category":"Cooking ingredients"
+   "id":"150",
+   "name":"Sesame oil",
+   "reflux":"avoid",
+   "category":"Cooking ingredients"
  },
  {
  "id":"152",
@@ -1161,6 +1161,24 @@
     "id":"195",
     "name":"Soy sauce",
     "reflux":"ok",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"196",
+    "name":"Maple syrup",
+    "reflux":"ok",
+    "category":"Condiments"
+  },
+  {
+    "id":"197",
+    "name":"Agave nectar",
+    "reflux":"ok",
+    "category":"Condiments"
+  },
+  {
+    "id":"198",
+    "name":"Corn starch",
+    "reflux":"avoid",
     "category":"Cooking ingredients"
   }
 ]
