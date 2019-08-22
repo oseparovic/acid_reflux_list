@@ -1180,5 +1180,23 @@
     "name":"Corn starch",
     "reflux":"avoid",
     "category":"Cooking ingredients"
+  },
+  {
+    "id":"199",
+    "name":"Plums",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"200",
+    "name":"Turnips",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"201",
+    "name":"Leeks",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
   }
 ]
