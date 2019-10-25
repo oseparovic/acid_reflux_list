@@ -715,7 +715,7 @@
  },
  {
  "id":"131",
- "name":"Tea",
+ "name":"Tea (caffeinated)",
  "reflux":"avoid",
  "category":"Drinks"
  },
@@ -1198,5 +1198,35 @@
     "name":"Leeks",
     "reflux":"avoid",
     "category":"Fruits and vegetables"
+  },
+  {
+    "id":"202",
+    "name":"Capsicum",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"203",
+    "name":"Celeriac",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"204",
+    "name":"Oat milk",
+    "reflux":"remedy",
+    "category":"Dairy"
+  },
+  {
+    "id":"205",
+    "name":"Pine nuts",
+    "reflux":"ok",
+    "category":"Nuts and seeds"
+  },
+  {
+    "id":"206",
+    "name":"Alfredo",
+    "reflux":"avoid",
+    "category":"Dairy"
   }
 ]
