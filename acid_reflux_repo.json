@@ -987,7 +987,7 @@
     "id":"166",
     "name":"Sunflower seeds",
     "reflux":"ok",
- "category":"Nuts and seeds"
+    "category":"Nuts and seeds"
   },
   {
     "id":"167",
@@ -1228,5 +1228,35 @@
     "name":"Alfredo",
     "reflux":"avoid",
     "category":"Dairy"
+  },
+  {
+    "id":"207",
+    "name":"Grape juice",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "id":"208",
+    "name":"Jasmine tea",
+    "reflux":"avoid",
+    "category":"Drinks"
+  },
+  {
+    "id":"209",
+    "name":"Sugar",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"210",
+    "name":"Pomegranate",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"211",
+    "name":"Salt",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
   }
 ]
