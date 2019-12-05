@@ -1288,5 +1288,11 @@
     "name":"Turmeric",
     "reflux":"ok",
     "category":"Fruits and vegetables"
+  },
+  {
+    "id":"217",
+    "name":"Macadamia nuts",
+    "reflux":"avoid",
+    "category":"Nuts and seeds"
   }
 ]
