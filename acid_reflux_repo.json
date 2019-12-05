@@ -1264,5 +1264,29 @@
     "name":"Rye Bread",
     "reflux":"avoid",
     "category":"Grain products"
+  },
+  {
+    "id":"213",
+    "name":"Chickpeas",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"214",
+    "name":"Kale",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"215",
+    "name":"Shrimp (avoid frying)",
+    "reflux":"ok",
+    "category":"Meat and substitutes"
+  },
+  {
+    "id":"216",
+    "name":"Turmeric",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
   }
 ]
