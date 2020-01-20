@@ -1129,7 +1129,7 @@
   },
   {
     "id":"190",
-    "name":"Cinammon",
+    "name":"Cinnamon",
     "reflux":"ok",
     "category":"Cooking ingredients"
   },
@@ -1294,5 +1294,71 @@
     "name":"Macadamia nuts",
     "reflux":"avoid",
     "category":"Nuts and seeds"
+  },
+  {
+    "id":"218",
+    "name":"Figs",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"219",
+    "name":"Acai berry",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"220",
+    "name":"Kidney beans",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"221",
+    "name":"Boiled eggs",
+    "reflux":"avoid",
+    "category":"Dairy"
+  },
+  {
+    "id":"222",
+    "name":"Chia seeds",
+    "reflux":"avoid",
+    "category":"Nuts and seeds"
+  },
+  {
+    "id":"223",
+    "name":"Goat cheese",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "id":"224",
+    "name":"Hummus",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"225",
+    "name":"Licorice root",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"226",
+    "name":"Plantain",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"227",
+    "name":"Ranch dressing",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"228",
+    "name":"Rooibos tea",
+    "reflux":"ok",
+    "category":"Drinks"
   }
 ]
