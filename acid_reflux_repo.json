@@ -483,13 +483,13 @@
   "id":"93",
     "name":"Egg yolk",
     "reflux":"avoid",
-    "category":"Meat and substitutes"
+    "category":"Dairy"
   },
   {
   "id":"94",
     "name":"Egg white",
     "reflux":"remedy",
-    "category":"Meat and substitutes"
+    "category":"Dairy"
   },
   {
   "id":"95",
@@ -1243,8 +1243,8 @@
   },
   {
     "id":"209",
-    "name":"Sugar",
-    "reflux":"ok",
+    "name":"White sugar",
+    "reflux":"avoid",
     "category":"Cooking ingredients"
   },
   {
@@ -1360,5 +1360,59 @@
     "name":"Rooibos tea",
     "reflux":"ok",
     "category":"Drinks"
+  },
+  {
+    "id":"229",
+    "name":"Fried eggs",
+    "reflux":"avoid",
+    "category":"Dairy"
+  },
+  {
+    "id":"230",
+    "name":"Palm oil",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"231",
+    "name":"Sweetcorn",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"232",
+    "name":"Brown sugar",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"233",
+    "name":"Buttermilk",
+    "reflux":"avoid",
+    "category":"Dairy"
+  },
+  {
+    "id":"234",
+    "name":"Cilantro",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"235",
+    "name":"Coriander",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"236",
+    "name":"Coconut milk",
+    "reflux":"ok",
+    "category":"Dairy"
+  },
+  {
+    "id":"237",
+    "name":"Seaweed",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
   }
 ]
