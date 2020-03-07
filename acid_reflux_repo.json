@@ -1414,5 +1414,29 @@
     "name":"Seaweed",
     "reflux":"ok",
     "category":"Fruits and vegetables"
+  },
+  {
+    "id":"238",
+    "name":"Vanilla",
+    "reflux":"ok",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"239",
+    "name":"Arugula",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"240",
+    "name":"Dragon fruit",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"241",
+    "name":"Lobster (avoid frying)",
+    "reflux":"ok",
+    "category":"Meat and substitutes"
   }
 ]
