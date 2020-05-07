@@ -1432,5 +1432,41 @@
     "name":"Lobster (avoid frying)",
     "reflux":"ok",
     "category":"Meat and substitutes"
+  },
+  {
+    "id":"242",
+    "name":"Pesto",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"243",
+    "name":"Granola",
+    "reflux":"ok",
+    "category":"Nuts and seeds"
+  },
+  {
+    "id":"244",
+    "name":"Bagel (plain)",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+    "id":"245",
+    "name":"Pancake",
+    "reflux":"avoid",
+    "category":"Grain products"
+  },
+  {
+    "id":"246",
+    "name":"Curry powder",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+    "id":"247",
+    "name":"Hotdog",
+    "reflux":"avoid",
+    "category":"Meat and substitutes"
   }
 ]
