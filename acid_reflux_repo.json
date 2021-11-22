@@ -1582,5 +1582,11 @@
     "name":"Hot sauce",
     "reflux":"avoid",
     "category":"Cooking ingredients"
+  },
+  {
+  "id":"267",
+  "name":"Mineral water",
+  "reflux":"remedy",
+  "category":"Drinks"
   }
 ]
