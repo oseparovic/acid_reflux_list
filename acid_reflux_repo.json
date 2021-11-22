@@ -626,7 +626,7 @@
  {
  "id":"118",
  "name":"Radishes",
- "reflux":"avoid",
+ "reflux":"remedy",
  "category":"Fruits and vegetables"
  },
  {
@@ -648,7 +648,7 @@
  "category":"Meat and substitutes"
  },
  {
-"id":"122", 
+"id":"122",
  "name":"Marbled Steak",
  "reflux":"avoid",
  "category":"Meat and substitutes"
@@ -1509,6 +1509,12 @@
     "id":"254",
     "name":"Sardines",
     "reflux":"ok",
+    "category":"Meat and substitutes"
+  },
+  {
+  "id":"255",
+    "name":"Salami",
+    "reflux":"avoid",
     "category":"Meat and substitutes"
   }
 ]
