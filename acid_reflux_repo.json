@@ -343,7 +343,7 @@
   },
   {
   "id":"69",
-    "name":"Parsely",
+    "name":"Parsley",
     "reflux":"remedy",
     "category":"Fruits and vegetables"
   },
@@ -626,7 +626,7 @@
  {
  "id":"118",
  "name":"Radishes",
- "reflux":"avoid",
+ "reflux":"remedy",
  "category":"Fruits and vegetables"
  },
  {
@@ -648,7 +648,7 @@
  "category":"Meat and substitutes"
  },
  {
-"id":"122", 
+"id":"122",
  "name":"Marbled Steak",
  "reflux":"avoid",
  "category":"Meat and substitutes"
@@ -883,8 +883,8 @@
  },
  {
    "id":"7",
- "name":"Popcorn",
- "reflux":"avoid",
+ "name":"Popcorn (plain or salted, no butter)",
+ "reflux":"ok",
  "category":"Grain products"
  },
  {
@@ -1510,5 +1510,83 @@
     "name":"Sardines",
     "reflux":"ok",
     "category":"Meat and substitutes"
+  },
+  {
+  "id":"255",
+    "name":"Salami",
+    "reflux":"avoid",
+    "category":"Meat and substitutes"
+  },
+  {
+  "id":"256",
+    "name":"Muffin (non-fruit, low-fat)",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+  "id":"257",
+    "name":"Endive",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+  "id":"258",
+    "name":"Parsnip",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+  "id":"259",
+    "name":"Snow Peas",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+  "id":"260",
+    "name":"Watercress",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+  "id":"261",
+    "name":"Yams",
+    "reflux":"ok",
+    "category":"Fruits and vegetables"
+  },
+  {
+  "id":"262",
+    "name":"Artificial Sweetener(less than 2tsp a day)",
+    "reflux":"ok",
+    "category":"Confections"
+  },
+  {
+  "id":"263",
+    "name":"Chicken Stock",
+    "reflux":"ok",
+    "category":"Meat and substitutes"
+  },
+  {
+    "id":"264",
+    "name":"Flour",
+    "reflux":"ok",
+    "category":"Grain products"
+  },
+  {
+  "id":"265",
+    "name":"Nectarine",
+    "reflux":"avoid",
+    "category":"Fruits and vegetables"
+  },
+  {
+    "id":"266",
+    "name":"Hot sauce",
+    "reflux":"avoid",
+    "category":"Cooking ingredients"
+  },
+  {
+  "id":"267",
+  "name":"Mineral water",
+  "reflux":"remedy",
+  "category":"Drinks"
   }
 ]
